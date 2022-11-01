@@ -1,5 +1,7 @@
-## ScreenShot Component
- file:///home/mijo/Pictures/Screenshots/Screenshot%20from%202022-11-01%2012-22-34.png
+## Images Component
+![Screenshot from 2022-11-01 12-22-34](https://user-images.githubusercontent.com/26336407/199223373-4464aa8c-d871-4c2d-968e-78fee3400a9b.png)
+<br />
+![Screenshot from 2022-11-01 12-23-04](https://user-images.githubusercontent.com/26336407/199223472-a7f41424-6c57-4b21-a03b-cc2c5b70aa2c.png)
 
 ## Available Scripts
 
